@@ -1,0 +1,62 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Accenture Labs 
+    url: ""
+    #location: Dhaka Branch
+    # company overview
+    overview: Personalized Persuasive Multimodal Goal Driven Dialogue Agent
+  positions:
+  - designation: Researcher
+    start: Jan 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Jul 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - In a task-oriented dialogue system, task completion is the utmost priority of both end-users and the dialogue agent. However, existing dialogue agents completely flatter
+      in case of some adversarial situations such as goal unavailability. We formulated a unique Markov decision process (MDP) with a cumulative reward model (task-based, sentiment-
+      based, and persuasion-based) for simultaneously reinforcing task-specific, user-adaptive and personalized persuasive behavior, and optimized dialogue policy using reinforcement learning techniques. The obtained results and comparisons with different baselines and state-of-
+      the-art methods firmly establish the role of dynamic and context driven personalized persuasive dialogue system over non-persuasive and fixed strategy based persuasive dialoguesystems.
+  # - designation: Junior Software Engineer
+  #   start: Nov 2017
+  #   end: Oct 2019
+  #   responsibilities:
+  #   - Implement and test xyz feature for abc tool.
+  #   - Support client for abc tool.
+  #   - Learn k,d,w technology for xyz.
+
+- company:
+    name: Jadavpur University
+    url: "http://www.jaduniv.edu.in/"
+    location: Kolkata, West Bengal
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Research Intern
+    start: June 2018
+    end: July 2018
+    responsibilities:
+    - Ensemble and Distributes approaches for Feature Selection,
+
+# - company:
+#     name: Intern Counting Company (ICC).
+#     url: "https://www.example.com"
+#     location: Intern Land
+#     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+#   positions:
+#   - designation: Intern
+#     start: Jun 2015
+#     end: Jan 2016
+#     responsibilities:
+#     - Count lost of interns.
+#     - Count more interns.
+#     - Count me as an intern.
