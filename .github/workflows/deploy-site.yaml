@@ -15,7 +15,7 @@ jobs:
       with:
         submodules: true  # Fetch Hugo themes (true OR recursive)
         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-    
+
     # install Hugo
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.5.0
@@ -31,5 +31,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3.8.0
       with:
         github_token: ${{ secrets.TOKEN }}
-        publish_branch: production # if your main branch is `master` use that here.
+        publish_branch: deploy # if your main branch is `master` use that here.
         publish_dir: ./public
