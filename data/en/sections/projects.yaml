@@ -29,7 +29,7 @@ projects:
   #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Diagnosis is the primary and crucial stage of any medical treatment process, where doctors conduct an investigation, analyze symptoms /signs and diagnose patients' disease. With the motivation of assisting doctors and early diagnosis, Automatic diagnosis assistants are gaining immense popularity and demand, owing to its scalability, rationality, and efficacy aspects. In real life, doctors generally go in reverse order, i.e., they first hypothesize a set of diseases based on patients' chief complaints \& other confirmed symptoms; and investigate potential signs of the hypothesized condition, allowing him to diagnose patients with greater confidence and fewer conversation turns. Inspired by the idea, this project proposed and developed a novel knowledge-infused, context-driven task-oriented virtual agent for autonomous disease diagnosis that employs a bayesian learning-inspired symptom exploration and exploitation diagnosis methodology to incorporate context-aware, knowledge-based symptom inspection.
-  tags: ["Disease Diagnosis", "Virtual Assistant", "Deep Reinforcement Learning"]
+  tags: ["Disease Diagnosis", "Virtual Assistant", "Deep Reinforcement Learning", "academic"]
 - name: Symptom Association guided Disease Diagnosis Assistant
   logo: /images/sections/projects/idea.png
   role: Contributor
@@ -38,7 +38,7 @@ projects:
   #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Automatic disease diagnosis using artificial intelligence is experiencing an ever-growing demand, aiming to assist clinicians and make an early diagnosis. A condition (cause) induces various effects, and these effects collectively represent the cause. A word is known by the company it keeps; similarly, symptoms also exhibit the association property, i.e., one symptom may strongly suggest another symptom's existence/non-existence, and their association provides a crucial insight about suffering condition. The current work investigates the role of symptom association and proposes a Virtual Agent called Association guided Symptom Investigation and Diagnosis Dialogue System (A-SIDDS) using hierarchical reinforcement learning.
-  tags: ["Symptom Investigation", "Early diagnosis", "Symptom Association", "Reinforcement Learning"]
+  tags: ["Symptom Investigation", "Early diagnosis", "Symptom Association", "Reinforcement Learning", "academic"]
 - name: Personalized Persuasive Multimodal Goal Driven Dialogue Agent
   logo: /images/sections/projects/idea.png
   role: Contributor
@@ -47,5 +47,5 @@ projects:
   #repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Task/goal-oriented conversational agents are gaining immense popularity and success in a wide range of tasks, from flight ticket booking to online shopping. However, the existing systems presume that end-users will always have a pre-determined and servable task goal, which results in dialogue failure in hostile scenarios such as goal unavailability. In many domains, such as e-commerce and fashion, end-users find it challenging to describe some of their task specifications such as glacier white color and flip style phone through text, rendering multi-modality a necessity rather than an additional feature. Motivated by the limitation and effectiveness of textual-visual communication, we propose and build a novel end-to-end multimodal persuasive dialogue system incorporated with a personalized persuasive module aided goal controller and goal persuader.
-  tags: ["Task Orinted Virtual Assistant", "Dynamic Goal", "Goal Unavalability", "Personalization", "Deep Reinforcement Learning"]
+  tags: ["Task Orinted Virtual Assistant", "Dynamic Goal", "Goal Unavalability", "Personalization", "Deep Reinforcement Learning", "professional"]
 

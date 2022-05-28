@@ -15,13 +15,13 @@ skills:
   logo: /images/sections/skills/research.png
   summary: "To me, finding an answer/explanation to a question/phenomenon has always been of fundamental interest, and doing so for a greater purpose and vision is something that drives me. "
 
-- name: Coding
-  logo: /images/sections/skills/code.png
-  summary: "Idea ==> Realization / Python, C, C++"
-
 - name: Machine Learning 
   logo: /images/sections/skills/ML.png
   summary: "How an autonomus agent learn a task "
+
+- name: Coding
+  logo: /images/sections/skills/code.png
+  summary: "Idea ==> Realization / Python, C, C++"
 
 # - name: Leadership
 #   logo: /images/sections/skills/leadership.png
