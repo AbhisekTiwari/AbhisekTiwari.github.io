@@ -7,6 +7,6 @@ menu:
     name: Introduction
     identifier: introduction
     weight: 10
-tags: ["Basic", "Multi-lingual"]
+tags: ["Researcher"]
 categories: ["Basic"]
 ---

@@ -10,9 +10,9 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: Ph.D in Computer Science and Engineering
   icon: fa-microscope
-  timeframe: 2019-2023
+  timeframe: 2019-2023 (expected)
   institution:
     name: Indian Institute of Technology, Patna
     url: "www.iitp.ac.in"
@@ -21,12 +21,18 @@ degrees:
     achieved: 8.65
     outOf: 10
   publications: #(optional)
-  - title: A Knowledge Infused Context Driven Dialogue Agent for Disease Diagnosis using Hierarchical Reinforcement Learning
+  - title: A Knowledge Infused Context Driven Dialogue Agent for Disease Diagnosis using Hierarchical Reinforcement Learning - Knowledge Based-System (KBS)
     url: "https://www.sciencedirect.com/science/article/pii/S0950705122000971"
-  - title: Multimodal dialogue policy learning dynamic and cooperative goal setting - International Joint Conference on Neural Networks
+  - title: Towards Sentiment and Emotion aided Intent Detection - ICPR 2022
+    url: "https://www.icpr2022.com/"
+  - title: Multimodal dialogue policy learning dynamic and cooperative goal setting - International Joint Conference on Neural Networks (IJCNN 2021)
     url: "https://ieeexplore.ieee.org/document/9533878"
   - title: A Persona Aware Persuasive Dialogue Policy for Dynamic and Co-operative Goal Setting - Expert Systems with Applications
     url: "https://www.sciencedirect.com/science/article/pii/S0957417421016067"
+  - title: A Dynamic Goal adapted Task Oriented Dialogue Agent - PLOS ONE  
+    url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249030"
+  - title: Context Aware Joint Modeling of Domain Classification, Intent Detection and Slot Filling with Zero-Shot Intent Detection Approach - ICONIP 2021
+    url: "https://link.springer.com/chapter/10.1007/978-3-030-92238-2_48"
 - name: B.Tech in Computer Science and Engineering
   icon: fa-graduation-cap
   timeframe: 2015-2019

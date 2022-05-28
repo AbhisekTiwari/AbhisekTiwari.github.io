@@ -1,5 +1,5 @@
 ---
-title: Sub-Category
+<!-- title: Sub-Category
 menu:
   sidebar:
     name: Sub-Category
@@ -7,3 +7,4 @@ menu:
     parent: category
     weight: 10
 ---
+ -->

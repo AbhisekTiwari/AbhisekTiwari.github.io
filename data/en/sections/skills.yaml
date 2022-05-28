@@ -23,6 +23,6 @@ skills:
   logo: /images/sections/skills/ML.png
   summary: "How an autonomus agent learn a task "
 
-- name: Leadership
-  logo: /images/sections/skills/leadership.png
-  summary: " Visionary, Pasionate and Energatic Leader"
+# - name: Leadership
+#   logo: /images/sections/skills/leadership.png
+#   summary: " Visionary, Pasionate and Energatic Leader"

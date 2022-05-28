@@ -36,16 +36,42 @@ experiences:
   #   - Learn k,d,w technology for xyz.
 
 - company:
+    name: Government College of Engineering & Textile Technology Berhampore
+    url: "http://gcettb.ac.in/"
+    location: Online mode
+    #overview: 
+  positions:
+  - designation: Guest Lecturer 
+    start: March 2022
+    #end: 
+    responsibilities:
+    - Fundamentals of Machine Learning
+
+- company:
+    name: Netaji Subhas Institute Of Technology, Bihta
+    url: "https://nsit.in/"
+    location: Patna, Bihar
+    #overview: Netaji Subhas Institute of Technology established in 2007, with first batch started in 2008 has its magnificent campus at Amhara in the district of Patna, Bihar
+  positions:
+  - designation: Guest Lecturer 
+    start: Decemeber 2021
+    course : Foundamentals of Machine Learning
+    #end: 
+    responsibilities:
+    - Foundamentals of Machine Learning
+
+
+- company:
     name: Jadavpur University
     url: "http://www.jaduniv.edu.in/"
     location: Kolkata, West Bengal
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
   - designation: Research Intern
     start: June 2018
     end: July 2018
     responsibilities:
-    - Ensemble and Distributes approaches for Feature Selection,
+    - Ensemble and Distributes approaches for Feature Selection
 
 # - company:
 #     name: Intern Counting Company (ICC).

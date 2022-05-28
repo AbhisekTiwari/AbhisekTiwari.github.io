@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Bash Notes
 menu:
   notes:
@@ -6,4 +6,4 @@ menu:
     identifier: notes-bash
     weight: 20
 ---
-# Bash Notes
+# Bash Notes -->

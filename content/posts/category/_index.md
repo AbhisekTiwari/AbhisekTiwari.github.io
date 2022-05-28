@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Top Category Sample
 menu:
   sidebar:
@@ -6,3 +6,4 @@ menu:
     identifier: category
     weight: 20
 ---
+ -->

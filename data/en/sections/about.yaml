@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Research Scholar
+#designation: Research Scholar
 # your company information
-company:
-  name: AI-NLP-ML Lab, Depeartment of CSE, IIT Patna
-  url: "www.iitp.ac.in"
+#company:
+#  name: AI-NLP-ML Lab, Depeartment of CSE, IIT Patna
+#  url: "www.iitp.ac.in"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "https://drive.google.com/file/d/1OATLLVT5uDwOAaMWkXon-YPrTdcx7URn/view?usp=sharing"
 
 # a summary about you
-summary: 'Hello, I am Abhisek Tiwari. Currently, I working as a research scholar at IIT Patna. '
+summary: 'Hello, I am Abhisek Tiwari. Currently, I working as a research scholar at AI-NLP-ML Lab, Indian Institute of Technology, Patna. '
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -40,32 +40,32 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  name: Researcher 
+  url: "https://scholar.google.com/citations?user=aGT5TusAAAAJ&hl=en"
   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
+  name: Programmer
   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
   badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
+  name: Data Science and Human Research
   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Research
+  name: Visionary and Passionate Researcher
   percentage: 85
   color: blue
 
 - type: soft-skill-indicator
-  name: Research
+  name: Problem Solver
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Research
+  name: Leadership
   percentage: 85
   color: orange
 
