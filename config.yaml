@@ -116,7 +116,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       # Google Analytics
       google:
         id: #
