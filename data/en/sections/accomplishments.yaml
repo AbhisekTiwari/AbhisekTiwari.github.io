@@ -17,21 +17,26 @@ accomplishments:
   organization: 
     name: IEEE Student Branch, IIT Patna 
     url: https://www.iitp.ac.in/ieeesb/
-  certificateURL: "https://drive.google.com/file/d/1hYbLNkVTipoTllsZLsxlMo_-HzYCi8F9/view?usp=sharing"
+  courseOverview: Institute of Electrical and Electronics Engineers (IEEE) an association dedicated to advancing innovation and technological excellence for the benefit of humanity, is the world's largest technical professional society. It is designed to serve professionals involved in all aspects of the electrical, electronic, and computing fields and related areas of science and technology that underlie modern civilization.
+
+
+  #certificateURL: "https://drive.google.com/file/d/1hYbLNkVTipoTllsZLsxlMo_-HzYCi8F9/view?usp=sharing"
 
 - name: Post Graduate Representative (PGR)
   timeline: "2020 - 2022"
   organization: 
     name: NSS, IIT Patna 
     url: https://nss.iitp.ac.in/
-  certificateURL: "https://drive.google.com/file/d/1hYbLNkVTipoTllsZLsxlMo_-HzYCi8F9/view?usp=sharing"
+  #certificateURL: "https://drive.google.com/file/d/1hYbLNkVTipoTllsZLsxlMo_-HzYCi8F9/view?usp=sharing"
+  courseOverview: The National Service Scheme of IIT Patna is an initiative to bring about a change in the Social and Economic forms of the Society. NSS believes that "Service to Mankind is Service to GOD" and with this mindset the members of NSS are ready to carve out humanity out of every social cause. The Scheme runs with a motive to inculcate Social Responsibilties in the youth.
 
 - name: Volunteer 
   timeline: "2021-2022"
   organization: 
     name: ICLR 2022, NeurIPS 2022, and ACL 2021, 
     url: https://iclr.cc/
-  certificateURL: "https://drive.google.com/file/d/1hYbLNkVTipoTllsZLsxlMo_-HzYCi8F9/view?usp=sharing"
+  courseOverview: I have volunteered many conferences, including ICLR 2022 and NeurIPS 2021. I leanned how research findings are translating into tools and techniques that directly benefit the general public. I have also received travel grant for attending EMNLP 2021 and CODS-COMAD 2020.
+  #certificateURL: "https://drive.google.com/file/d/1hYbLNkVTipoTllsZLsxlMo_-HzYCi8F9/view?usp=sharing"
 
 # - name: Workshop 
 #   timeline: "2022"
@@ -45,9 +50,9 @@ accomplishments:
   timeline: "Jan 2020 - Current"
   organization:
     name: IEEE JBHI, TALIP, IEEE TCBB
-    url: https://www.educative.io
-  #courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    url: 
+  courseOverview: I have reviewed more than 50 papers from top journal and conferences, including IEEE Journal of Biomedical and Health Informatics, PlOS ONE, and Expert Systems with Applications. I always belive in improvement, thus I provide detailed remarks and suggestions if I do not accept recommnedation of a paper.  
+  #certificateURL: "https://example.com"
 
 # - name: Mastering Multithreading Programming with Go (Golang)
 #   timeline: "Nov 2017 - Mar 2018"

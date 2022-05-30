@@ -18,14 +18,14 @@ section:
 resume: "https://drive.google.com/file/d/1OATLLVT5uDwOAaMWkXon-YPrTdcx7URn/view?usp=sharing"
 
 # a summary about you
-summary: 'Hello, I am Abhisek Tiwari. Currently, I am working as a research scholar at AI-NLP-ML Lab, Indian Institute of Technology, Patna. <br> Thank you for visiting! Have a nice day'
+summary: 'Hello, I am Abhisek Tiwari. Currently, I am working as a research scholar at AI-NLP-ML Lab, Indian Institute of Technology, Patna. <br> <br> Thank you for visiting! Have a great day'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "abhisektiwari2014@gmail.com"
+  url: "abhisek_1921cs16@iitp.ac.in"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"

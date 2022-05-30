@@ -19,18 +19,20 @@ degrees:
     scale: CGPA
     achieved: 8.65
     outOf: 10
+  research areas: 
+    research interests : Natural Language Processing, Dialogue System, Automatic Disease Diagnosis
   publications: #(optional)
-  - title: A Knowledge Infused Context Driven Dialogue Agent for Disease Diagnosis using Hierarchical Reinforcement Learning - Knowledge Based-System (KBS)
+  - title: "A Knowledge Infused Context Driven Dialogue Agent for Disease Diagnosis using Hierarchical Reinforcement Learning -  Tiwari, Abhisek, Sriparna Saha, and Pushpak Bhattacharyya, Knowledge-Based Systems (2022): 108292"
     url: "https://www.sciencedirect.com/science/article/pii/S0950705122000971"
-  - title: Towards Sentiment and Emotion aided Intent Detection - ICPR 2022
+  - title: Towards Sentiment and Emotion aided Intent Detection -  Ashutosh Trivedi, Abhisek Tiwari, Sriparna Saha, Anutosh Maitra, Shubhashis Sengupta, Roshni Ramnani, International Conference on Pattern Recognition (ICPR) 2022
     url: "https://www.icpr2022.com/"
-  - title: Multimodal dialogue policy learning dynamic and cooperative goal setting - International Joint Conference on Neural Networks (IJCNN 2021)
-    url: "https://ieeexplore.ieee.org/document/9533878"
-  - title: A Persona Aware Persuasive Dialogue Policy for Dynamic and Co-operative Goal Setting - Expert Systems with Applications
+  - title: A Persona Aware Persuasive Dialogue Policy for Dynamic and Co-operative Goal Setting - Abhisek Tiwari, Tulika Saha, Sriparna Saha, Shubhashis Sengupta, Anutosh Maitra, Roshni Ramnani, Pushpak Bhattacharyya - Expert Systems with Applications (2022)
     url: "https://www.sciencedirect.com/science/article/pii/S0957417421016067"
-  - title: A Dynamic Goal adapted Task Oriented Dialogue Agent - PLOS ONE  
+  - title: Multimodal dialogue policy learning dynamic and cooperative goal setting - Abhisek Tiwari, Tulika Saha, Sriparna Saha, Shubhashis Sengupta, Anutosh Maitra, Roshni Ramnani, Pushpak Bhattacharyya - International Joint Conference on Neural Networks (IJCNN), (2021)
+    url: "https://ieeexplore.ieee.org/document/9533878"
+  - title: A Dynamic Goal adapted Task Oriented Dialogue Agent - Abhisek Tiwari, Tulika Saha, Sriparna Saha, Shubhashis Sengupta, Anutosh Maitra, Roshni Ramnani, Pushpak Bhattacharyya, PLOS ONE (2021)
     url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249030"
-  - title: Context Aware Joint Modeling of Domain Classification, Intent Detection and Slot Filling with Zero-Shot Intent Detection Approach - ICONIP 2021
+  - title: Context Aware Joint Modeling of Domain Classification, Intent Detection and Slot Filling with Zero-Shot Intent Detection Approach -  Neeti Priya, Abhisek Tiwari, Sriparna Saha - The 28th International Conference on Neural Information Processing (ICONIP2021)
     url: "https://link.springer.com/chapter/10.1007/978-3-030-92238-2_48"
 - name: B.Tech in Computer Science and Engineering
   icon: fa-graduation-cap
@@ -39,7 +41,7 @@ degrees:
     name: Government College of Engineering and Textile Technology, Berhampore
     url: "http://gcettb.ac.in/"
   grade: #(optional)
-    scale: CGPA
+    scale: DGPA
     achieved: 9.04
     outOf: 10
   # takenCourses: #(optional)
