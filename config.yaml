@@ -54,7 +54,7 @@ params:
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 5
+    maxVisibleSections: 6
 
   # Configure various features of this theme
   features:
@@ -63,7 +63,7 @@ params:
       enable: true
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       # Share post on different social media
       shareButtons:
         facebook: true
@@ -168,10 +168,10 @@ params:
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: true
-      provider: mailchimp
-      mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
+      enable: false
+      provider: google form
+      mailchimpURL: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdFy1PjEchMogiM2luXLQWhfdyfDDg6eYRL9fSKnyUK_-3h0w/viewform?embedded=true" width="640" height="1082" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
