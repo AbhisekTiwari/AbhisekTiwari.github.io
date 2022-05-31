@@ -17,7 +17,7 @@ accomplishments:
   organization: 
     name: IEEE Student Branch, IIT Patna 
     url: https://www.iitp.ac.in/ieeesb/
-  courseOverview: Institute of Electrical and Electronics Engineers (IEEE) an association dedicated to advancing innovation and technological excellence for the benefit of humanity, is the world's largest technical professional society. It is designed to serve professionals involved in all aspects of the electrical, electronic, and computing fields and related areas of science and technology that underlie modern civilization.
+  courseOverview: Institute of Electrical and Electronics Engineers (IEEE), an association dedicated to advancing innovation and technological excellence for the benefit of humanity, is the world's largest technical professional society. The IEEE Student branch, IIT Patna, aims to provide a platform where students, scholars, and faculty can discuss their ideas, findings, and tools to enlarge the impact of the findings. 
 
 
   #certificateURL: "https://drive.google.com/file/d/1hYbLNkVTipoTllsZLsxlMo_-HzYCi8F9/view?usp=sharing"
@@ -35,7 +35,7 @@ accomplishments:
   organization: 
     name: ICLR 2022, NeurIPS 2022, and ACL 2021, 
     url: https://iclr.cc/
-  courseOverview: I have volunteered many conferences, including ICLR 2022 and NeurIPS 2021. I leanned how research findings are translating into tools and techniques that directly benefit the general public. I have also received travel grant for attending EMNLP 2021 and CODS-COMAD 2020.
+  courseOverview: I have volunteered at many conferences, including ICLR 2022 and NeurIPS 2021. Through this experience, I have learned how research findings are converted into tools and techniques that directly benefit the general public. I have also received travel grants for attending EMNLP 2021 and CODS-COMAD 2020.
   #certificateURL: "https://drive.google.com/file/d/1hYbLNkVTipoTllsZLsxlMo_-HzYCi8F9/view?usp=sharing"
 
 # - name: Workshop 
@@ -51,7 +51,8 @@ accomplishments:
   organization:
     name: IEEE JBHI, TALIP, IEEE TCBB
     url: 
-  courseOverview: I have reviewed more than 50 papers from top journal and conferences, including IEEE Journal of Biomedical and Health Informatics, PlOS ONE, and Expert Systems with Applications. I always belive in improvement, thus I provide detailed remarks and suggestions if I do not accept recommnedation of a paper.  
+  courseOverview: I have reviewed more than 50 papers from top journals and conferences, including IEEE Journal of Biomedical and Health Informatics, PlOS ONE, and Expert Systems with Applications. I believe in improvement; thus, I provide detailed remarks and suggestions that can significantly improve the quality of work. 
+
   #certificateURL: "https://example.com"
 
 # - name: Mastering Multithreading Programming with Go (Golang)
