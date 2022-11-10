@@ -68,7 +68,7 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: In Pogresss 
   tags: []
-- name: Medical Dialogue Description Generation 
+- name: Medical Concern Summary Generation 
   logo: /images/sections/projects/idea.png
   role: Contributor
   #timeline: "Jan 2021 - June 2021"
