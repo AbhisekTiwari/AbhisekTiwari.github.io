@@ -9,7 +9,7 @@ contactInfo:
   Address: AI NLP ML Lab, B3-510, Department of Computer Science and Engineering,
        Indian Institute of Technology, Patna
   #email: "abhisektiwari2014@gmail.com"
-  email: "aabhisek_1921cs16@iitp.ac.in"
+  email: "aabhisek_1921cs16@iitp.ac.in / abhisektiwari2014@gmail.com"
   #github: "AbhisekTiwari"
   linkedin: "abhisekti"
   Phn no: "+91 9123979259"
@@ -17,7 +17,7 @@ contactInfo:
 # some summary about what you do
 summary:
 - I am a Researcher
-- My research interest includes Natural Language Processing
+- My research interest includes Artificial Intelligence for Social Good
+- Natural Language Processing
 - Dialogue Processing
 - Reinforcement Learning 
-- Automatic Disease Diagnosis
