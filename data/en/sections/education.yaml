@@ -15,15 +15,16 @@ degrees:
   institution:
     name: Indian Institute of Technology, Patna
     url: "www.iitp.ac.in"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 8.65
-    outOf: 10
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 8.65
+  #   outOf: 10
   research areas: 
-    research interests : Natural Language Processing, Dialogue System, Automatic Disease Diagnosis
-  publications: #(optional)
+    research interests : Aritificail Intelligence for Social Good, Natural Language Processing, Dialogue Processing and Reinforcement Learning
+    Conference : 
   - title: "Dr. Can See: Towards a Multi-modal Disease Diagnosis Virtual Assistant - Manisimha Manthena, Sriparna Saha, Pushpak Bhattacharyya, Minakshi Dhar, and Sarbajeet Tiwari - 31st ACM International Conference on Information and Knowledge Management (CIKM) 2022"
     url: "https://dl.acm.org/doi/abs/10.1145/3511808.3557296"
+    Journals: 
   - title: "A Knowledge Infused Context Driven Dialogue Agent for Disease Diagnosis using Hierarchical Reinforcement Learning -  Tiwari, Abhisek, Sriparna Saha, and Pushpak Bhattacharyya, Knowledge-Based Systems (2022): 108292"
     url: "https://www.sciencedirect.com/science/article/pii/S0950705122000971"
   - title: Towards Sentiment and Emotion aided Intent Detection -  Ashutosh Trivedi, Abhisek Tiwari, Sriparna Saha, Anutosh Maitra, Shubhashis Sengupta, Roshni Ramnani, International Conference on Pattern Recognition (ICPR) 2022
