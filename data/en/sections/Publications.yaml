@@ -1,0 +1,29 @@
+# section information
+section:
+  name: Publications
+  id: publications
+  template: sections/Publications.html 
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+
+Conference : 
+  - title: "Dr. Can See: Towards a Multi-modal Disease Diagnosis Virtual Assistant - Manisimha Manthena, Sriparna Saha, Pushpak Bhattacharyya, Minakshi Dhar, and Sarbajeet Tiwari - 31st ACM International Conference on Information and Knowledge Management (CIKM) 2022"
+    url: "https://dl.acm.org/doi/abs/10.1145/3511808.3557296"
+Journals: 
+  - title: "A Knowledge Infused Context Driven Dialogue Agent for Disease Diagnosis using Hierarchical Reinforcement Learning -  Tiwari, Abhisek, Sriparna Saha, and Pushpak Bhattacharyya, Knowledge-Based Systems (2022): 108292"
+    url: "https://www.sciencedirect.com/science/article/pii/S0950705122000971"
+  - title: Towards Sentiment and Emotion aided Intent Detection -  Ashutosh Trivedi, Abhisek Tiwari, Sriparna Saha, Anutosh Maitra, Shubhashis Sengupta, Roshni Ramnani, International Conference on Pattern Recognition (ICPR) 2022
+    url: "https://www.icpr2022.com/"
+  - title: A Persona Aware Persuasive Dialogue Policy for Dynamic and Co-operative Goal Setting - Abhisek Tiwari, Tulika Saha, Sriparna Saha, Shubhashis Sengupta, Anutosh Maitra, Roshni Ramnani, Pushpak Bhattacharyya - Expert Systems with Applications (2022)
+    url: "https://www.sciencedirect.com/science/article/pii/S0957417421016067"
+  - title: Multimodal dialogue policy learning dynamic and cooperative goal setting - Abhisek Tiwari, Tulika Saha, Sriparna Saha, Shubhashis Sengupta, Anutosh Maitra, Roshni Ramnani, Pushpak Bhattacharyya - International Joint Conference on Neural Networks (IJCNN), (2021)
+    url: "https://ieeexplore.ieee.org/document/9533878"
+  - title: A Dynamic Goal adapted Task Oriented Dialogue Agent - Abhisek Tiwari, Tulika Saha, Sriparna Saha, Shubhashis Sengupta, Anutosh Maitra, Roshni Ramnani, Pushpak Bhattacharyya, PLOS ONE (2021)
+    url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249030"
+  - title: Context Aware Joint Modeling of Domain Classification, Intent Detection and Slot Filling with Zero-Shot Intent Detection Approach -  Neeti Priya, Abhisek Tiwari, Sriparna Saha - The 28th International Conference on Neural Information Processing (ICONIP2021)
+    url: "https://link.springer.com/chapter/10.1007/978-3-030-92238-2_48"
+
+
+

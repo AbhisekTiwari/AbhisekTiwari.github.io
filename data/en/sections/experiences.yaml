@@ -9,10 +9,24 @@ section:
   # hideTitle: true 
 
 # Your experiences
+
 experiences:
+
+- company:
+    name: AIISC, University of South Carolina
+    url: "https://aiisc.ai/"
+    location: Online mode
+    Advisor: Dr. Amit Seth, Professor 
+  positions:
+  - designation: Research Specialist
+    start: Sept 2022
+    #end: 
+    responsibilities:
+    - Artificial Intelligence for Social Good
+
 - company:
     name: Accenture Labs 
-    url: ""
+    url: "https://newsroom.accenture.com/subjects/accenture-technology-labs-research-development/"
     #location: Dhaka Branch
     # company overview
     overview: Personalized Persuasive Multimodal Goal Driven Dialogue Agent
@@ -65,13 +79,25 @@ experiences:
     name: Jadavpur University
     url: "http://www.jaduniv.edu.in/"
     location: Kolkata, West Bengal
-    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    Advisor: Dr. Ram Sarkar, Professor
   positions:
   - designation: Research Intern
-    start: June 2018
-    end: July 2018
+    start: July 2018
+    end: Sept 2018
     responsibilities:
     - Ensemble and Distributes approaches for Feature Selection
+
+- company:
+    name: Indian Institute of Technology, Kharagpur
+    url: "http://www.iitkgp.ac.in/"
+    location: Kharagpur, West Bengal
+    Advisor: Dr. Manoj Tiwari, Professor
+  positions:
+  - designation: Research Intern
+    start: May 2018
+    end: July 2018
+    responsibilities:
+    - Optimization Algorithms
 
 # - company:
 #     name: Intern Counting Company (ICC).
